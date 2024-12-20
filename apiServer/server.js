@@ -10,14 +10,14 @@ app.use(bodyParser.json());
 const shard1Db = mysql.createConnection({
     host: 'localhost',
     user: 'root',
-    password: 'Tyagi#2004',  // replace with your password
+    password: 'hahaha',  // replace with your password
     database: 'shard1'
 });
 
 const shard2Db = mysql.createConnection({
     host: 'localhost',
     user: 'root',
-    password: 'Tyagi#2004',  // replace with your password
+    password: 'hahaha',  // replace with your password
     database: 'shard2'
 });
 
