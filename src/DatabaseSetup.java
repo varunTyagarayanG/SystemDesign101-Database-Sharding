@@ -7,7 +7,7 @@ public class DatabaseSetup {
     // Database connection details
     private static final String DB_URL = "jdbc:mysql://localhost:3306/";
     private static final String USERNAME = "root"; // Replace with your DB username
-    private static final String PASSWORD = "Tyagi#2004"; // Replace with your DB password
+    private static final String PASSWORD = "hahaha"; // Replace with your DB password
 
     public static void main(String[] args) {
         DatabaseSetup setup = new DatabaseSetup();
