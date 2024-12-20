@@ -8,7 +8,7 @@ public class PhoneBookSharder {
     private static final String SHARD_1_URL = "jdbc:mysql://localhost:3306/shard1";
     private static final String SHARD_2_URL = "jdbc:mysql://localhost:3306/shard2";
     private static final String USERNAME = "root"; // Replace with your DB username
-    private static final String PASSWORD = "Tyagi#2004"; // Replace with your DB password
+    private static final String PASSWORD = "hahaha"; // Replace with your DB password
 
     // Predefined first names and last names
     private static final String[] FIRST_NAMES = {
